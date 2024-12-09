@@ -1,0 +1,187 @@
+@import url(reset.css);
+
+body{
+    background: url('../img/space.png') center/cover repeat, rgb(47, 1, 61);
+    height: 100vh;
+    
+}
+
+.containner{
+    display: flex;
+    justify-content: baseline;
+    flex-wrap: wrap;
+    align-items: center;
+    color: #fff;
+    max-width: 700px;
+    margin: 20px auto;
+    gap: 10px;    
+}
+
+.hero img{
+    height: 250px;
+    width: auto;
+}
+
+.description > h1{
+    color: #00ffff;
+    font-family: "Press Start 2P", serif;
+    font-weight: 300;
+    font-size: 1.5rem;
+    font-style: normal;
+}
+
+.form-hero{
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.form{
+    display: flex;
+    font-size: 1.2rem;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    max-width: 600px;
+    flex-wrap: wrap;
+}
+
+
+input {
+    width: 500px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding: 5px 20px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+input:focus {
+    color: #420355;
+    background-color: #00ffff;
+    outline: #ff1493;
+    border: 2px solid #ff1493;
+}
+
+button{
+    padding: 5px 20px;
+    font-size: 1.2rem;
+    border-radius: 15px;
+    margin: 20px 0;
+    color: #00ffff;
+    background-color: transparent;
+    border: 2px solid;
+    cursor: pointer;
+    width: 500px;    
+}
+
+button:hover{
+    color: #ff1493;
+    background-color: transparent;
+    border-color: #ff1493;
+}
+
+button:active{
+    transform: scale(.90);
+}
+
+.containner-main > section {
+    background-color: #521564;
+    margin: 15px auto;
+}
+
+.result{
+    width: 700px;
+    margin: 0 auto;
+}
+
+.result p {
+    color: #00ffff;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding: 10px;
+    text-align: center;
+}
+
+ 
+footer {
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+  }
+
+.social{
+    margin-top: 10px;
+}
+
+
+/* Responsividade */
+
+
+  @media (max-width: 400px) {
+    :root {
+        font-size: 16px;
+      }
+    .containner{
+        flex-direction: column;
+        max-width: 500px;          
+    }
+    .form-hero{
+        max-width: 500px;        
+    }
+
+    input {
+        width: 400px;  
+        font-size: 1.2rem;             
+    }
+
+    button{
+        font-size: 2rem;
+        border-radius: 15px;
+        margin: 10px 0;
+        color: #00ffff;
+        border: 1px solid;
+        width: 400px;    
+        font-size: 1rem;
+    }
+
+    .result{
+        width: 300px;
+        margin: 0 auto;
+    }
+    
+}  
+
+
+@media  (min-width: 400px)and (max-width: 700px) {
+    :root {
+        font-size: 12px;
+      }
+    .containner{
+        flex-direction: column;
+    }
+    .form-hero{
+        max-width: 250px;        
+    }
+
+    input {
+        width: 250px;  
+        font-size: 0.8rem;             
+    }
+
+    button{
+        font-size: 1rem;
+        border-radius: 15px;
+        margin: 10px 0;
+        color: #00ffff;
+        border: 1px solid;
+        width: 300px;    
+        font-size: 1rem;
+    }
+
+    .result{
+        width: 200px;
+        margin: 0 auto;
+    }
+    
+}

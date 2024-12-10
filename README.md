@@ -1,7 +1,7 @@
 
 # ⚔️ Desafio: Classificador de Nível de Herói 🎮
 
-<img src="./assets/img/preview.PNG" alt="Classificador de Heróis" title="Interface do Projeto" width="400">
+![Classificador de Heróis](./assets/img/preview.PNG "Interface do Projeto")
 
 Seja bem-vindo ao repositório Classificador de Nível de Herói, um projeto interativo desenvolvido para avaliar e categorizar heróis com base na quantidade de experiência (XP). 🚀
 

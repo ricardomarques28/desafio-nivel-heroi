@@ -39,20 +39,24 @@ O nível correspondente ao XP informado é exibido, permitindo ao usuário visua
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## ⛏️ Estrutura do Projeto
-desafio-nivel-heroi/  
-├── assets/  
-│   ├── css/             # Arquivos de estilo  
-│   │   ├── reset.css  
-│   │   ├── style.css  
-│   ├── img/          # Imagens para o design da aplicação 
-│   │   ├── favicon.png  
-│   │   ├── hero.png  
-│   │   ├── space.png  
-│   ├── scripts/         # Arquivos JavaScript  
-│       ├── scripts.js  
-├── index.html           # Arquivo principal  
-└── README.md            # Documentação do projeto  
+desafio-nivel-heroi/
+├── assets/                      # Recursos utilizados no projeto
+│   ├── css/                     # Arquivos de estilo
+│   │   ├── reset.css            # Reseta estilos padrão dos navegadores
+│   │   ├── style.css            # Estilos principais do projeto
+│   ├── img/                     # Imagens para o design da aplicação
+│   │   ├── favicon.png          # Ícone da aplicação
+│   │   ├── hero.png             # Imagem do herói
+│   │   ├── space.png            # Imagem de fundo
+│   ├── scripts/                 # Arquivos JavaScript
+│       ├── scripts.js           # Lógica principal do projeto
+├── index.html                   # Arquivo principal do projeto
+└── README.md                    # Documentação do projeto
+
+🌐 Page: https://ricardomarques28.github.io/desafio-nivel-heroi/
 
 
 Volte sempre! 💪🎯
+
+
 

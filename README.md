@@ -1,9 +1,9 @@
 
 # ⚔️ Desafio: Classificador de Nível de Herói 🎮
 
-Bem-vindo ao repositório Detona Ralph, um projeto inspirado no clássico arcade, onde você testa seus reflexos e precisão em um ambiente cheio de ação! 🚀
+Bem-vindo ao repositório Classificador de Nível de Herói, Este repositório apresenta um projeto interativo que permite aos usuários classificar heróis com base na quantidade de experiência (XP) 🚀
 
-## 🛡️ Sobre o Projeto - Objeivo:
+## 🛡️ Sobre o Projeto - Objetivo:
 Este repositório apresenta um projeto interativo que permite aos usuários classificar heróis com base na quantidade de experiência (XP). A solução foi desenvolvida com foco em simplicidade e funcionalidade, utilizando as tecnologias HTML, CSS e JavaScript para criar uma interface intuitiva e responsiva.
 
 ## 🗡️ Funcionalidades

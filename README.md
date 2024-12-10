@@ -1,12 +1,24 @@
 
 # ⚔️ Desafio: Classificador de Nível de Herói 🎮
 
-Bem-vindo ao repositório Classificador de Nível de Herói, Este repositório apresenta um projeto interativo que permite aos usuários classificar heróis com base na quantidade de experiência (XP) 🚀
 
-## 🛡️ Sobre o Projeto - Objetivo:
-Este repositório apresenta um projeto interativo que permite aos usuários classificar heróis com base na quantidade de experiência (XP). A solução foi desenvolvida com foco em simplicidade e funcionalidade, utilizando as tecnologias HTML, CSS e JavaScript para criar uma interface intuitiva e responsiva.
+
+
+
+
+
+
+
+
+![](assets/img/preview.png)
+
+Seja bem-vindo ao repositório Classificador de Nível de Herói, um projeto interativo desenvolvido para avaliar e categorizar heróis com base na quantidade de experiência (XP) acumulada. 🚀
+
+🛡️ Sobre o Projeto - Objetivo:
+Este projeto tem como objetivo proporcionar uma experiência simples e intuitiva para classificar heróis conforme suas pontuações de XP. Desenvolvido com as tecnologias HTML, CSS, e JavaScript, a solução combina funcionalidade e design responsivo para garantir uma navegação fluida e atrativa.
 
 ## 🗡️ Funcionalidades
+
 ✅ Entrada de Dados (Inputs):
 
 Nome do Herói ou Heroína: Permite ao usuário inserir o nome do personagem que deseja classificar.
@@ -39,6 +51,7 @@ O nível correspondente ao XP informado é exibido, permitindo ao usuário visua
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## ⛏️ Estrutura do Projeto
+
 desafio-nivel-heroi/
 ├── assets/                      # Recursos utilizados no projeto
 │   ├── css/                     # Arquivos de estilo

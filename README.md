@@ -57,6 +57,21 @@ desafio-nivel-heroi/
 ├── index.html                   # Arquivo principal do projeto
 └── README.md                    # Documentação do projeto
 
+```mermaid
+graph TD;
+    A[desafio-nivel-heroi/] --> B[assets/]
+    B --> C[css/]
+    C --> D[reset.css]
+    C --> E[style.css]
+    B --> F[img/]
+    F --> G[favicon.png]
+    F --> H[hero.png]
+    F --> I[space.png]
+    B --> J[scripts/]
+    J --> K[scripts.js]
+    A --> L[index.html]
+    A --> M[README.md]
+
 🌐 Page: https://ricardomarques28.github.io/desafio-nivel-heroi/
 
 
